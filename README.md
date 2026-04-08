@@ -34,21 +34,16 @@ This makes wellness tracking more engaging, interactive, and human-like.
 ## Screenshots
 
 ### Overview
+<img src="overview.png" width="700"/>
 
-![Overview](overview.png)
+### Dashboard
+<img src="dashboard.png" width="700"/>
 
-### 📊 Dashboard
-
-![Dashboard](dashboard.png)
-
-### 📈 Wellness Charts
-
-![Charts](charts.png)
+### Wellness Charts
+<img src="charts.png" width="500"/>
 
 ### Weekly Narrative (AI Insights)
-
-![Weekly Narrative](weekly-narrative.png)
-
+<img src="weekly-narrative.png" width="700"/>
 ---
 
 ## Tech Stack
